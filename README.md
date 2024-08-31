@@ -1,4 +1,4 @@
-# excalidraw-electron
+# excalidraw-electron - Excalidraw Windows Application
 A simple Electron wrapper for Excalidraw.
 
 All credit goes to [Excalidraw](https://github.com/excalidraw/excalidraw), this is just an Electron wrapper for it.
