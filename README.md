@@ -3,12 +3,17 @@ A simple Electron wrapper for Excalidraw.
 
 All credit goes to [Excalidraw](https://github.com/excalidraw/excalidraw), this is just an Electron wrapper for it.
 
-*HELP*: If anyone knows how to direct the Library Asset BTN URL to the actual web url and open it in a new browser window on click please leme know. I dont wana hack it to death just for that. Saw another way older electron compiled app that had that working.
+<br>
+
+---
+*HELP REQUEST*: If anyone knows a very simple way to direct the Library Asset BTN URL to the actual web url instead of a local url and open it in a new browser window instead, please let me know. U can still download and import assets. The url to the asset library just goes to a local url by default. Didnt see a setting for it. Thnx!
+
+---
 
 <br> 
 
 
-## EXE download is at bottom of this doc for non-developers.
+## <a href="downloadEXE">EXE download is at bottom of this doc for non-developers</a>.
 
 <br>
 
@@ -209,7 +214,11 @@ UIOptions={{
     <br> <br><br>
 
 ----
+<div id="downloadEXE">
 
 # DOWNLOAD for non-devs:
 DOWNLOAD EXE AND/OR INSTALL FILE HERE: https://drive.google.com/drive/folders/1CRelQguguejDq65XUlrIUDET77YKtm59?usp=sharing
+
+</div>
 ----
+
