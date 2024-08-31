@@ -13,7 +13,7 @@ All credit goes to [Excalidraw](https://github.com/excalidraw/excalidraw), this 
 <br> 
 
 
-## <a href="downloadEXE">EXE download is at bottom of this doc for non-developers</a>.
+## For non devs: <a href="https://drive.google.com/drive/folders/1CRelQguguejDq65XUlrIUDET77YKtm59?usp=sharing" target="_blank">.EXE Download</a>
 
 <br>
 
