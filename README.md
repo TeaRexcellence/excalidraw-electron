@@ -3,21 +3,20 @@ A simple Electron wrapper for Excalidraw.
 
 All credit goes to [Excalidraw](https://github.com/excalidraw/excalidraw), this is just an Electron wrapper for it.
 
-<br>
-
----
-*HELP REQUEST*: If anyone knows a very simple way to direct the Library Asset BTN URL to the actual web url instead of a local url and open it in a new browser window instead, please let me know. U can still download and import assets. The url to the asset library just goes to a local url by default. Didnt see a setting for it. Thnx!
-
----
-
 <br> 
-
 
 ## For non devs: <a href="https://drive.google.com/drive/folders/1CRelQguguejDq65XUlrIUDET77YKtm59?usp=sharing" target="_blank">.EXE Download</a>
 
 <br>
 
 ## For devs:
+<br>
+
+---
+*HELP REQUEST*: If anyone knows a very simple way to direct the Library Asset BTN URL to the actual web url instead of a local url and open it in a new browser window instead, please let me know. U can still download and import assets. The url to the asset library just goes to a local url by default. Didnt see a setting for it. Thnx!
+
+---
+<br>
 # NOTICE:
 - ## Dark mode enabled by default.
   - To disable it as default. Remove the `theme="dark"` line from the main `App.js` file.
