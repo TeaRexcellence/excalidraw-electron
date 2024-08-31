@@ -111,3 +111,4 @@ $RECYCLE.BIN/
 *.launch
 .settings/
 *.sublime-workspace
+package-lock.json

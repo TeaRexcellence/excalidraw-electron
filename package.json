@@ -8,10 +8,10 @@
   "private": true,
   "repository": {
 	"type": "git",
-	"url": "git+https://github.com/Tripater/excalidraw-electron.git"
+	"url": "git+https://github.com/Tearexcellence/excalidraw-electron.git"
   },
   "bugs": {
-	"url": "https://github.com/Tripater/excalidraw-electron/issues",
+	"url": "https://github.com/Tearexcellence/excalidraw-electron/issues",
 	"email": "project@hostname.com"
   },
   "main": "public/electron.mjs",
@@ -46,7 +46,7 @@
 	"wait-on": "^7.2.0"
   },
   "build": {
-	"appId": "com.tripater.excalidraw-electron",
+	"appId": "com.tearexcellence.excalidraw-electron",
 	"productName": "ExcalidrawElectron",
 	"directories": {
 	  "buildResources": "assets",
@@ -96,3 +96,5 @@
 	}
   }
 }
+
+
