@@ -11,7 +11,7 @@ All credit goes to [Excalidraw](https://github.com/excalidraw/excalidraw), this 
 
 ## For devs:
 
-*HELP REQUEST*: If anyone knows a very simple way to direct the Library Asset BTN URL to the actual web url instead of a local url and open it in a new browser window instead, please let me know. U can still download and import assets. The url to the asset library just goes to a local url by default. Didnt see a setting for it. Thnx!
+*HELP REQUEST*: If anyone knows a very simple way to direct the Library Asset BTN URL to the actual web url instead of a local url and open it in a new browser window instead, please let me know. U can still download and import community assets from the website. The url to the asset library just goes to a local url by default. Didnt see a setting for it. Thnx!
 
 # NOTICE:
 - ## Dark mode enabled by default.
