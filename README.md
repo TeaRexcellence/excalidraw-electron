@@ -17,6 +17,7 @@ All credit goes to [Excalidraw](https://github.com/excalidraw/excalidraw), this 
 
 <br>
 
+## For devs:
 # NOTICE:
 - ## Dark mode enabled by default.
   - To disable it as default. Remove the `theme="dark"` line from the main `App.js` file.
